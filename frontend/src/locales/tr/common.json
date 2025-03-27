@@ -1,0 +1,117 @@
+{
+  "header": {
+    "title": "Viking Ölüdeniz",
+    "subtitle": "Ölüdeniz'in En İyi Tekne Turu"
+  },
+  "sections": {
+    "tours": {
+      "title": "Turlar",
+      "tourInfo": {
+        "title": "Tur Bilgisi",
+        "description": "Detaylı bilgi"
+      },
+      "otherTours": {
+        "title": "Diğer Turlar",
+        "description": "Tüm turlar"
+      },
+      "reservation": {
+        "title": "Rezervasyon",
+        "description": "Hemen ayırtın"
+      }
+    },
+    "menu": {
+      "title": "Yiyecek & İçecek",
+      "cardTitle": "Menü",
+      "description": "Menüyü inceleyin"
+    },
+    "contact": {
+      "title": "Bize Ulaşın",
+      "whatsapp": "WhatsApp",
+      "phone": "Telefon",
+      "web": "Web"
+    },
+    "social": {
+      "title": "Sosyal Medya",
+      "instagram": "Instagram",
+      "tripadvisor": "TripAdvisor",
+      "google": "Google",
+      "reviews": "Değerlendirmeler"
+    }
+  },
+  "reservation": {
+    "form": {
+      "title": "Rezervasyon Formu",
+      "fullName": "Adı Soyadı",
+      "nationality": "Uyruk",
+      "idNumber": "TC Kimlik / Pasaport No",
+      "phone": "Telefon Numarası",
+      "peopleCount": "Kişi Sayısı",
+      "address": "Konaklama Adresi",
+      "tourDate": "Tur Tarihi",
+      "submit": "Rezervasyon Yap",
+      "required": "Bu alan zorunludur"
+    }
+  },
+  "tour": {
+    "info": {
+      "title": "Tur Bilgileri",
+      "date": "Tarih",
+      "time": "Saat",
+      "duration": "Süre",
+      "capacity": "Kapasite",
+      "price": "Fiyat",
+      "included": "Dahil Olanlar",
+      "notIncluded": "Dahil Olmayanlar",
+      "schedule": "Program Akışı",
+      "notes": "Önemli Notlar"
+    }
+  },
+  "menu": {
+    "categories": {
+      "breakfast": "Kahvaltı",
+      "lunch": "Öğle Yemeği",
+      "snacks": "Atıştırmalıklar",
+      "beverages": "İçecekler",
+      "alcohol": "Alkollü İçecekler"
+    },
+    "item": {
+      "price": "Fiyat",
+      "allergens": "Alerjenler",
+      "preparationTime": "Hazırlanma Süresi"
+    }
+  },
+  "footer": {
+    "copyright": "© 2024 Viking Ölüdeniz | Tüm Hakları Saklıdır"
+  },
+  "common": {
+    "loading": "Yükleniyor...",
+    "error": "Bir hata oluştu",
+    "success": "İşlem başarılı",
+    "back": "Geri",
+    "next": "İleri",
+    "save": "Kaydet",
+    "cancel": "İptal",
+    "delete": "Sil",
+    "edit": "Düzenle",
+    "view": "Görüntüle",
+    "close": "Kapat"
+  },
+  "login": {
+    "title": "Giriş Yap",
+    "email": "E-posta",
+    "password": "Şifre",
+    "submit": "Giriş Yap",
+    "loading": "Giriş yapılıyor...",
+    "error": "Giriş yapılırken bir hata oluştu"
+  },
+  "dashboard": {
+    "title": "Yönetim Paneli",
+    "welcome": "Hoş Geldiniz",
+    "stats": {
+      "users": "Toplam Kullanıcı",
+      "tours": "Toplam Tur",
+      "tickets": "Toplam Bilet",
+      "revenue": "Toplam Gelir"
+    }
+  }
+} 

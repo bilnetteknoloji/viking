@@ -1,0 +1,94 @@
+{
+  "common": {
+    "welcome": "Welcome to Daily Tour Ticket App",
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout",
+    "submit": "Submit",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "view": "View",
+    "search": "Search",
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "success": "Success"
+  },
+  "auth": {
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "name": "Full Name",
+    "phone": "Phone Number",
+    "forgotPassword": "Forgot Password?",
+    "resetPassword": "Reset Password",
+    "createAccount": "Create Account",
+    "alreadyHaveAccount": "Already have an account?",
+    "dontHaveAccount": "Don't have an account?"
+  },
+  "nav": {
+    "home": "Home",
+    "tours": "Tours",
+    "reservations": "Reservations",
+    "tickets": "Tickets",
+    "profile": "Profile",
+    "settings": "Settings",
+    "admin": "Admin Panel"
+  },
+  "reservation": {
+    "create": "Create Reservation",
+    "details": "Reservation Details",
+    "fullName": "Full Name",
+    "nationality": "Nationality",
+    "identityNumber": "Identity Number / Passport Number",
+    "phone": "Phone Number",
+    "peopleCount": "Number of People",
+    "accommodationAddress": "Accommodation Address",
+    "tourDate": "Tour Date",
+    "tourSelection": "Select a Tour",
+    "requiredField": "This field is required"
+  },
+  "ticket": {
+    "create": "Create Ticket",
+    "details": "Ticket Details",
+    "ticketNumber": "Ticket Number",
+    "totalPrice": "Total Price",
+    "prePayment": "Pre-Payment",
+    "remainingAmount": "Remaining Amount",
+    "downloadPdf": "Download PDF",
+    "sendWhatsapp": "Send via WhatsApp"
+  },
+  "tour": {
+    "list": "Tour List",
+    "details": "Tour Details",
+    "name": "Name",
+    "description": "Description",
+    "route": "Route",
+    "boatName": "Boat Name",
+    "startTime": "Start Time",
+    "maxCapacity": "Maximum Capacity",
+    "price": "Price",
+    "image": "Tour Image"
+  },
+  "acente": {
+    "list": "Agency List",
+    "details": "Agency Details",
+    "name": "Name",
+    "authorizedPerson": "Authorized Person",
+    "phone": "Phone",
+    "address": "Address",
+    "taxOffice": "Tax Office",
+    "taxNumber": "Tax Number"
+  },
+  "admin": {
+    "users": "Users",
+    "acentes": "Agencies",
+    "tours": "Tours",
+    "reservations": "Reservations",
+    "tickets": "Tickets",
+    "notifications": "Notifications",
+    "logs": "Logs",
+    "settings": "Settings"
+  }
+} 

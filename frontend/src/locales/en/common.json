@@ -1,0 +1,117 @@
+{
+  "header": {
+    "title": "Viking Oludeniz",
+    "subtitle": "Best Boat Tour in Oludeniz"
+  },
+  "sections": {
+    "tours": {
+      "title": "Tours",
+      "tourInfo": {
+        "title": "Tour Info",
+        "description": "Detailed info"
+      },
+      "otherTours": {
+        "title": "Other Tours",
+        "description": "All tours"
+      },
+      "reservation": {
+        "title": "Reservation",
+        "description": "Book now"
+      }
+    },
+    "menu": {
+      "title": "Food & Drinks",
+      "cardTitle": "Menu",
+      "description": "View menu"
+    },
+    "contact": {
+      "title": "Contact Us",
+      "whatsapp": "WhatsApp",
+      "phone": "Phone",
+      "web": "Web"
+    },
+    "social": {
+      "title": "Social Media",
+      "instagram": "Instagram",
+      "tripadvisor": "TripAdvisor",
+      "google": "Google",
+      "reviews": "Reviews"
+    }
+  },
+  "reservation": {
+    "form": {
+      "title": "Reservation Form",
+      "fullName": "Full Name",
+      "nationality": "Nationality",
+      "idNumber": "ID / Passport Number",
+      "phone": "Phone Number",
+      "peopleCount": "Number of People",
+      "address": "Accommodation Address",
+      "tourDate": "Tour Date",
+      "submit": "Make Reservation",
+      "required": "This field is required"
+    }
+  },
+  "tour": {
+    "info": {
+      "title": "Tour Information",
+      "date": "Date",
+      "time": "Time",
+      "duration": "Duration",
+      "capacity": "Capacity",
+      "price": "Price",
+      "included": "Included",
+      "notIncluded": "Not Included",
+      "schedule": "Schedule",
+      "notes": "Important Notes"
+    }
+  },
+  "menu": {
+    "categories": {
+      "breakfast": "Breakfast",
+      "lunch": "Lunch",
+      "snacks": "Snacks",
+      "beverages": "Beverages",
+      "alcohol": "Alcoholic Drinks"
+    },
+    "item": {
+      "price": "Price",
+      "allergens": "Allergens",
+      "preparationTime": "Preparation Time"
+    }
+  },
+  "footer": {
+    "copyright": "© 2024 Viking Oludeniz | All Rights Reserved"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "success": "Operation successful",
+    "back": "Back",
+    "next": "Next",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "view": "View",
+    "close": "Close"
+  },
+  "login": {
+    "title": "Login",
+    "email": "Email",
+    "password": "Password",
+    "submit": "Sign In",
+    "loading": "Signing in...",
+    "error": "An error occurred while signing in"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "welcome": "Welcome",
+    "stats": {
+      "users": "Total Users",
+      "tours": "Total Tours",
+      "tickets": "Total Tickets",
+      "revenue": "Total Revenue"
+    }
+  }
+} 

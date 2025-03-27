@@ -1,0 +1,94 @@
+{
+  "common": {
+    "welcome": "Günübirlik Tur Bilet Uygulamasına Hoş Geldiniz",
+    "login": "Giriş Yap",
+    "register": "Kayıt Ol",
+    "logout": "Çıkış Yap",
+    "submit": "Gönder",
+    "cancel": "İptal",
+    "save": "Kaydet",
+    "delete": "Sil",
+    "edit": "Düzenle",
+    "view": "Görüntüle",
+    "search": "Ara",
+    "loading": "Yükleniyor...",
+    "error": "Bir hata oluştu",
+    "success": "Başarılı"
+  },
+  "auth": {
+    "email": "E-posta",
+    "password": "Şifre",
+    "confirmPassword": "Şifre Tekrar",
+    "name": "Ad Soyad",
+    "phone": "Telefon Numarası",
+    "forgotPassword": "Şifremi Unuttum?",
+    "resetPassword": "Şifremi Sıfırla",
+    "createAccount": "Hesap Oluştur",
+    "alreadyHaveAccount": "Zaten hesabınız var mı?",
+    "dontHaveAccount": "Hesabınız yok mu?"
+  },
+  "nav": {
+    "home": "Ana Sayfa",
+    "tours": "Turlar",
+    "reservations": "Rezervasyonlar",
+    "tickets": "Biletler",
+    "profile": "Profil",
+    "settings": "Ayarlar",
+    "admin": "Yönetim Paneli"
+  },
+  "reservation": {
+    "create": "Rezervasyon Oluştur",
+    "details": "Rezervasyon Detayları",
+    "fullName": "Ad Soyad",
+    "nationality": "Uyruk",
+    "identityNumber": "Kimlik Numarası / Pasaport Numarası",
+    "phone": "Telefon Numarası",
+    "peopleCount": "Kişi Sayısı",
+    "accommodationAddress": "Konaklama Adresi",
+    "tourDate": "Tur Tarihi",
+    "tourSelection": "Tur Seçimi",
+    "requiredField": "Bu alan zorunludur"
+  },
+  "ticket": {
+    "create": "Bilet Oluştur",
+    "details": "Bilet Detayları",
+    "ticketNumber": "Bilet Numarası",
+    "totalPrice": "Toplam Fiyat",
+    "prePayment": "Ön Ödeme",
+    "remainingAmount": "Kalan Tutar",
+    "downloadPdf": "PDF İndir",
+    "sendWhatsapp": "WhatsApp ile Gönder"
+  },
+  "tour": {
+    "list": "Tur Listesi",
+    "details": "Tur Detayları",
+    "name": "Ad",
+    "description": "Açıklama",
+    "route": "Rota",
+    "boatName": "Tekne Adı",
+    "startTime": "Başlangıç Saati",
+    "maxCapacity": "Maksimum Kapasite",
+    "price": "Fiyat",
+    "image": "Tur Görseli"
+  },
+  "acente": {
+    "list": "Acente Listesi",
+    "details": "Acente Detayları",
+    "name": "Ad",
+    "authorizedPerson": "Yetkili Kişi",
+    "phone": "Telefon",
+    "address": "Adres",
+    "taxOffice": "Vergi Dairesi",
+    "taxNumber": "Vergi Numarası"
+  },
+  "admin": {
+    "users": "Kullanıcılar",
+    "acentes": "Acenteler",
+    "tours": "Turlar",
+    "reservations": "Rezervasyonlar",
+    "tickets": "Biletler",
+    "notifications": "Bildirimler",
+    "logs": "Günlükler",
+    "settings": "Ayarlar"
+  }
+} 
